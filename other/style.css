@@ -91,6 +91,7 @@ body {
   }
   .ftd {
     border: 1px solid;
+    font-size: auto;
   }
 
   .footer-container {
